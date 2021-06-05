@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Dineshkumar510/Gallery-Mania/static/js/main.4ae3544f.chunk.js",
+    "main.js.map": "/Dineshkumar510/Gallery-Mania/static/js/main.4ae3544f.chunk.js.map",
+    "runtime-main.js": "/Dineshkumar510/Gallery-Mania/static/js/runtime-main.9988f4e0.js",
+    "runtime-main.js.map": "/Dineshkumar510/Gallery-Mania/static/js/runtime-main.9988f4e0.js.map",
+    "static/js/2.4af1e620.chunk.js": "/Dineshkumar510/Gallery-Mania/static/js/2.4af1e620.chunk.js",
+    "static/js/2.4af1e620.chunk.js.map": "/Dineshkumar510/Gallery-Mania/static/js/2.4af1e620.chunk.js.map",
+    "static/js/3.2d292b7b.chunk.js": "/Dineshkumar510/Gallery-Mania/static/js/3.2d292b7b.chunk.js",
+    "static/js/3.2d292b7b.chunk.js.map": "/Dineshkumar510/Gallery-Mania/static/js/3.2d292b7b.chunk.js.map",
+    "index.html": "/Dineshkumar510/Gallery-Mania/index.html",
+    "static/js/2.4af1e620.chunk.js.LICENSE.txt": "/Dineshkumar510/Gallery-Mania/static/js/2.4af1e620.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9988f4e0.js",
+    "static/js/2.4af1e620.chunk.js",
+    "static/js/main.4ae3544f.chunk.js"
+  ]
+}
